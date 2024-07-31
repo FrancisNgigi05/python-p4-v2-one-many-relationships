@@ -1,8 +1,8 @@
-"""everything done
+"""Completed database
 
-Revision ID: fb55c04ae97d
+Revision ID: a0622812b72f
 Revises: 
-Create Date: 2024-04-25 21:56:24.210695
+Create Date: 2024-07-31 10:09:50.373895
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = 'fb55c04ae97d'
+revision = 'a0622812b72f'
 down_revision = None
 branch_labels = None
 depends_on = None
